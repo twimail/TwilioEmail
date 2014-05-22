@@ -18,9 +18,9 @@ How To Run:
 Message Syntax:
 
 Please reply with following keywords
-1.      For Summary = summary
-2.      To Send Mail = send; (email ids separated by ,}; (subject}; (body}
-3.      To Search = search:(email id to search} (text}
+1.	For Summary = summary
+2.	To Send Mail = send; (email ids separated by ,}; (subject}; (body}
+3.	To Search = search:(email id to search} (text}
+
 
 To read menu anytime reply menu
-
